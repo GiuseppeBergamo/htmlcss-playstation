@@ -17,3 +17,12 @@
     height: 50px;
     border: 2px solid black;
 }
+
+#jumbo-secondary{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+
+}
