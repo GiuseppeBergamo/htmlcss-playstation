@@ -1,6 +1,21 @@
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+main {
+    padding-top: 106px;
+}
+
 #header-top {
     height: 30px;
     background-color: black;
+}
+
+#header-top .col-12 {
+    height: 30px;
 }
 
 #jumbotron {
@@ -10,6 +25,11 @@
     background-position: center;
     height: 500px;
 }
+
+img {
+    height: 100%;
+}
+
 
 .bg-violet {
     background-color: blueviolet;
