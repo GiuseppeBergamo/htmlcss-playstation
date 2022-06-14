@@ -1,9 +1,9 @@
-#header-top{
+#header-top {
     height: 30px;
     background-color: black;
 }
 
-#jumbotron{
+#jumbotron {
     background-image: url(../img/jumbo-bg.png);
     background-size: no-repeat;
     background-size: cover;
@@ -11,18 +11,22 @@
     height: 500px;
 }
 
-.bg-violet{
+.bg-violet {
     background-color: blueviolet;
     /* TOGLIERE L'ALTEZZA, SERVE SOLO PER VISUALIZZARE LE COLONNE */
     height: 50px;
     border: 2px solid black;
 }
 
-#jumbo-secondary{
+#jumbo-secondary {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: no-repeat;
     background-size: cover;
     background-position: center;
     height: 500px;
 
+}
+
+#new-games {
+    background-color: #1f1f1f;
 }
