@@ -18,16 +18,21 @@ main {
     height: 30px;
 }
 
+#header-top img {
+    height: 100%;
+}
+
 #jumbotron {
     background-image: url(../img/jumbo-bg.png);
     background-size: no-repeat;
     background-size: cover;
     background-position: center;
     height: 500px;
+    color: white;
 }
 
 img {
-    height: 100%;
+    max-width: 100%;
 }
 
 
