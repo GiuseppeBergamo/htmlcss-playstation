@@ -39,7 +39,6 @@ img {
 .bg-violet {
     background-color: blueviolet;
     /* TOGLIERE L'ALTEZZA, SERVE SOLO PER VISUALIZZARE LE COLONNE */
-    height: 50px;
     border: 2px solid black;
 }
 
