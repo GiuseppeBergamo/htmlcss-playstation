@@ -63,3 +63,34 @@ img {
 #playstation-now {
     background-color: #161c3b;
 }
+
+/* BUTTONS */
+
+.cs-button {
+    border-radius: 30px;
+    padding: 5px 15px;
+}
+
+.bg-grey {
+    background-color: #363636;
+    border: 2px solid #363636;
+    color: white;
+}
+
+.bg-orange {
+    background-color: #cd3d0f;
+    border: 2px solid #cd3d0f;
+    color: white;
+}
+
+.bg-blue {
+    background-color: #2d64e6;
+    border: 2px solid #2d64e6;
+    color: white;
+}
+
+.bg-lightgrey {
+    background-color: #d9dadc;
+    border: 2px solid #d9dadc;
+    color: #2d64e6;
+}
